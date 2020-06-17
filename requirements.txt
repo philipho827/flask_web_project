@@ -12,6 +12,7 @@ Flask-Bcrypt==0.7.1
 Flask-EmailVerifier==0.1.0
 Flask-Login==0.5.0
 Flask-Mail==0.9.1
+Flask-pymysql==0.2.3
 Flask-SQLAlchemy==2.4.3
 Flask-WTF==0.14.3
 future==0.18.2
@@ -20,10 +21,12 @@ is-disposable-email==1.0.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
+mysqlclient==1.4.6
 Pillow==7.1.2
 py-email-validation==1.0.0.3
 pycparser==2.20
-pygame==1.9.6
+PyMySQL==0.9.3
+PyMysqlDB==0.0.2
 python-dateutil==2.8.1
 requests==2.23.0
 six==1.15.0
